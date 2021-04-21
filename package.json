@@ -4,6 +4,8 @@
   "authors": [
     "Petr Sloup <petr.sloup@klokantech.com>"
   ],
+  "scripts": {
+	  "build": "node ./generate.js"},
   "dependencies": {
     "@mapbox/glyph-pbf-composite": "0.0.3",
     "fontnik": "0.6.0"
